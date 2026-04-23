@@ -1,0 +1,22 @@
+{
+  "name": "Manuales Odoo",
+  "short_name": "Manuales",
+  "description": "Asistente de manuales internos de Odoo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1D9E75",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/1D9E75/ffffff?text=M",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/1D9E75/ffffff?text=M",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
